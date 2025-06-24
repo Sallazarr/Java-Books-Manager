@@ -23,6 +23,7 @@ Aplicativo desenvolvido em Java para gerenciamento de livros através do termina
 ## Instalação e execução
 Clone este repositório.
 Gere sua API do Google Books.
+Adicione o Gson na sua IDE.
 Crie um arquivo na pasta raiz chamado "config.properties"
 Configure esse arquivo seguindo o exemplo do arquivo "config.properties.example".
 Abra o "Main.java" na sua IDE. 
