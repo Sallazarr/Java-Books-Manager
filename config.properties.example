@@ -1,0 +1,3 @@
+//Se quiser rodar o projeto crie um arquivo config.properties na raiz do projeto e insira sua api key//
+
+apiKey=SUA_API_KEY
